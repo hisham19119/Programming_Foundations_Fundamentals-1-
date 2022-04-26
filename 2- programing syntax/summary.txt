@@ -1,0 +1,40 @@
+python and java-script has the fewest syntax requirements 
+javaScript is for :
+    web apps 
+    some of non-web apps
+python is for :
+    web apps
+    internal company tools 
+    scientefic analysis
+    games 
+............................................
+statements are the building blocks of any program
+each statement can be made up of keywords , expressions , and operators 
+
+
+operators are symbols that tell the computer to perform an action with some input 
+    >>> arithmatic operations 
+            + for addition 
+            - for substraction
+            * for multiblication
+            / for division
+
+expressions consists of input values and the operator 
+    ex : 3 + 2 
+
+order of operations >>>>> PEMDAS
+    p - parentheses first 
+    E - Exponents
+    MD - multiblication & division ( left to right )
+    AS- addition & substraction (left to right)
+.........................................
+Errors categories :
+    syntax 
+         language rules broken 
+    Runtime 
+        unable to excute 
+    semantic 
+        unexpected output
+        
+
+

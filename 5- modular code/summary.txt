@@ -1,0 +1,24 @@
+one of keys of functions is to avoid writing the code again and again! 
+to make a function >>>
+    def function_name():
+        code
+
+to call the function>>>
+    function_name()
+    ...........................
+
+storing a conditional on a function>>
+        def function_name(varible_name):
+            if(varible_name==6):
+                print("")
+
+            if(varible_name==12):
+                print("")
+        
+        function_name(function argument)
+
+>>> function argument ... value of the variable 
+>>> function parameter ... varible_name 
+>>> return statement .... return << the value should the function return  >>
+
+ 

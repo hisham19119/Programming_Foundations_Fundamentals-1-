@@ -1,0 +1,28 @@
+programing is the process of converting ideas into instructions that computer can understand and excute 
+those instructions are sequential  
+bug >>> something unexpected happened
+crash>>> stops early or freezes 
+........................................
+there are many of programming languages differ according to syntax 
+syntax >>> rules of the language.
+........................................
+(file extensions )
+java script >>>>> .js
+perl >>>>>>> .pl
+........................................
+there are 3 ways to convert source code into machine code 
+compile it 
+interpret it 
+combination of both 
+
+(types of prog.langs.)
+compiled : c, c++, objective-c
+interpreted : PHP & JavaScript
+combination of both : Java, c#, python
+...........................................
+text editor>>> Integrated Development Environment or IDES
+
+
+
+
+

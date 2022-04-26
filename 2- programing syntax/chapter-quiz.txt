@@ -1,0 +1,67 @@
+1- You have Python 3 installed. How will you run the Python code in the file "process.py" on the command-line prompt?
+ans : python3 process.py
+
+2- To get Python code suggestions, you need to tell VS Code which Python interpreter to use.
+ans : To get Python code suggestions, you need to tell VS Code which Python interpreter to use.
+
+3- Which statement is true regarding Python support in VS Code?
+ans : You need to install a VS Code extension to support Python.
+
+4- What does this expression evaluate to?
+ans : 16
+
+5- Which expression evaluates to 20?
+ans : (2 + 3) * 4
+
+6- Which is an example of a syntax error?
+ans : 2 (4*2)
+
+7- Which of these is NOT a reason why we chose Python as the language for the course?
+ans : highly performant
+
+8- Which concern could be considered a disadvantage of Python under certain circumstances?
+ans : Python is a general-purpose language.
+
+
+9- Why does VS Code need a Python interpreter to be specified?
+ans :to provide code suggestions
+
+10- When working with the Terminal inside of VSCode, how can you expand the pane?
+ans : Click the up arrow.
+
+11- In the Python Terminal, what is printed when running the following line?
+    5 * 2 + 1
+ans : 11
+
+12- What does this expression evaluate to?
+    3 + 2 * 5
+ans : 13
+
+13- The code below, which is supposed to print the value of the variable x, is not working. Which category does the error fall under? 
+    x = 5
+ print("x")
+ans : semantic
+
+14- Which statement is true regarding Python on a Mac?
+ans : A Mac comes with a version of Python already installed.
+
+15-Which is an example of a runtime error?
+ans: name = "It's me!"
+    print("Hello.", Name)
+    <<<N is capital>>>
+
+16-Typing “What is 2 plus 2?” into the Python prompt causes a _____.
+ans: syntax error
+
+17-Which Mac application allows you to run commands and execute scripts in a command-line interface?
+ans: terminal 
+
+18-Which command will start the Python prompt on your computer?
+ans:  python3
+
+19-Which command exits from the Python command-line prompt?
+ans:  exit()
+
+20- If you execute the following expression, what is the output?
+     3 + 5 * 2
+ans: 13

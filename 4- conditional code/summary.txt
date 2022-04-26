@@ -1,0 +1,15 @@
+conditional or Boolean expression 
+    are any expression that breaks down to either true or false 
+
+Relational operators work with 2 operands
+
+equality operator >>> "=="
+
+equal sign ... (==)
+not equal sign ... (!=)
+greater sign ... (>)
+smaller sign ... (<)
+greater than or equal sign ... (>=)
+smaller than or equal sign ... (<=)
+...................................
+indentation in python statement is very imp. to know you are at which block

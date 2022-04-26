@@ -1,0 +1,44 @@
+variables are containers of values 
+variable name = value >>>>>> assigning the variable
+variabless 
+    integer : is a whole number , no decimal places 
+        >>> int 
+    string : letters and symbols inside double qoutes
+        >>> str
+        .......................
+rules should be followed when deal with variables at python 
+1- names contain letters , numbers , and underscoures
+2- space is not allowed in the name 
+3- sensetive .. capital C is not same as smaller c 
+4- variable can not be keywords like and , break or try
+    to know more about python keywords write this code 
+        import keyword 
+        print(keyword.Kwlist)
+        ...........................
+working with numbers 
+    + >> add
+    - >> substract
+    ** >> exponent
+    / >> division
+    // >> didvision without a reminder
+    % >> if you wanna get the reminder only 
+
+
+floats >> any number with a decimal point 
+strings >> can be used for letters, numbers, symbols and spaces 
+     they are between begining and ending quotes ""
+        ..............................
+python does not take a considerations of white-spaces
+    ecxept when you write the keywords that make a function.
+    they are important to read code easily 
+        ...............................
+comments is very important to declare all non-understanding codes 
+
+
+
+    
+    
+    
+    
+    
+
